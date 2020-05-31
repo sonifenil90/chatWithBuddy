@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480418932335",
+    "firebase_url": "https://chatwithbuddy-607c3.firebaseio.com",
+    "project_id": "chatwithbuddy-607c3",
+    "storage_bucket": "chatwithbuddy-607c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480418932335:android:c1136797702f5901fecf9a",
+        "android_client_info": {
+          "package_name": "com.example.chatwithbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480418932335-v781sf57419rujsr6mngclj4gujph5rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALMRP-3MbKeYaB9KdbSgfkmEyOuKuhVyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480418932335-v781sf57419rujsr6mngclj4gujph5rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
